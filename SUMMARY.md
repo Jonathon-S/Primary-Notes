@@ -13,6 +13,7 @@
 ## Physiology
 
 * [Untitled](physiology/untitled.md)
+* [Pharmacology](physiology/pharmacology.md)
 
 ## Pharmacology
 
