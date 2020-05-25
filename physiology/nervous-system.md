@@ -8,33 +8,37 @@
 
 ## Vision 
 
-Anatomy, pathways and image forming mechanisms
+### Anatomy, pathways and image forming mechanisms
 
-Eye movements
+### Eye movements
 
-Hearing and Equilibrium Anatomy, mechanisms of hearing and vestibular functions
+## Hearing and Equilibrium 
 
-Hair cells
+### Anatomy, mechanisms of hearing and vestibular functions
 
-Alert Behaviour, Sleep/Wake, and the Electrical Activity of the Brain
+### Hair cells
 
-Control of Posture and Movement 
+## Alert Behaviour, Sleep/Wake, and the Electrical Activity of the Brain
 
-General principles, corticospinal and corticobulbar system, cerebellum 
+## Control of Posture and Movement 
 
-Midbrain and basal ganglia 
+### General principles, corticospinal and corticobulbar system, cerebellum 
 
-The Autonomic Nervous System \(Covered in Pharmacology\)
+### Midbrain and basal ganglia 
 
-Central Regulation of Visceral Function Hypothalamic function including vasopressin, temperature regulation 
+## The Autonomic Nervous System \(Covered in Pharmacology\)
 
-Anatomic, cyclic and autonomic considerations 
+## Central Regulation of Visceral Function 
 
-Thirst 
+### Hypothalamic function including vasopressin, temperature regulation 
 
-Control of anterior pituitary secretion 
+### Anatomic, cyclic and autonomic considerations 
 
-Oxytocin
+### Thirst 
 
-Language
+### Control of anterior pituitary secretion 
+
+### Oxytocin
+
+## Language
 
