@@ -1,2 +1,0 @@
-# Cellular Injury and Adaptation
-

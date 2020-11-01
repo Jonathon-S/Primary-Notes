@@ -1,2 +1,0 @@
-# Joints of Upper Limb
-

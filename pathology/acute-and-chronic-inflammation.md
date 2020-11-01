@@ -1,2 +1,0 @@
-# Acute and Chronic Inflammation
-

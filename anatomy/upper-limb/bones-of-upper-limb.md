@@ -1,2 +1,0 @@
-# Bones of Upper Limb
-

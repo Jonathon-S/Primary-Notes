@@ -1,2 +1,0 @@
-# Vertebral Column
-

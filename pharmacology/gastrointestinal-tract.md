@@ -1,2 +1,0 @@
-# Gastrointestinal Tract
-

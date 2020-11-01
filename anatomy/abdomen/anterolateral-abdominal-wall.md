@@ -1,2 +1,0 @@
-# Anterolateral Abdominal Wall
-

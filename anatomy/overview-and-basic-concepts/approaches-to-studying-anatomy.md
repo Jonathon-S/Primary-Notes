@@ -1,2 +1,0 @@
-# Approaches to Studying Anatomy
-

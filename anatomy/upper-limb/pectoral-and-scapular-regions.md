@@ -1,2 +1,0 @@
-# Pectoral and Scapular Regions
-

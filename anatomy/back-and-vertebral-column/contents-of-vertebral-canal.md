@@ -1,2 +1,0 @@
-# Contents of Vertebral Canal
-

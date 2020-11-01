@@ -1,2 +1,0 @@
-# Integumentary System
-

@@ -1,2 +1,0 @@
-# Face and Scalp
-
