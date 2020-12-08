@@ -13,8 +13,495 @@
   </url>
   
   <url>
-    <loc>https://example.com/resuscitation/</loc>
+    <loc>https://example.com/anatomy/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/abdomen/abdominal-viscera/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/abdomen/anterolateral-abdominal-wall/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/abdomen/diaphragm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/abdomen/peritoneum-and-peritoneal-cavity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/abdomen/posterior-abdominal-wall/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/abdomen/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/back-and-vertebral-column/contents-of-vertebral-canal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/back-and-vertebral-column/muscles-of-back/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/back-and-vertebral-column/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/back-and-vertebral-column/vertebrae/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/back-and-vertebral-column/vertebral-column/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/cranial-nerves/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/head/brain/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/head/cranial-meninges/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/head/cranium/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/head/ear/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/head/eye-orbit-orbital-region-and-eyeball/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/head/face-and-scalp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/head/neck/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/head/nose/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/head/oral-region/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/head/parotoid-and-temporal-regions-infratemportal-fossa-and-temporomandibular-joint/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/head/pterygopalatine-fossa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/head/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/lower-limb/anterior-and-medial-regions-of-thigh/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/lower-limb/bones-of-lower-limb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/lower-limb/development-of-lower-limb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/lower-limb/fascia-veins-lymphatics-efferent-vessels-and-cutaneous-nerves-of-lower-limb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/lower-limb/foot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/lower-limb/gluteal-and-posterior-thigh-regions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/lower-limb/joints-of-lower-limb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/lower-limb/popliteal-fossa-and-leg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/lower-limb/posture-and-gait/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/lower-limb/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/anatomical-variation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/anatomicomedical-terminology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/approaches-to-studying-anatomy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/cardiovascular-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/fascial-compartments-bursae-and-potential-spaces/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/fascias/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/integumentary-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/lymphoid-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/medical-imaging-techniques/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/muscle-tissue-and-the-muscular-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/nervous-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/overview-and-basic-concepts/skeletal-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/pelvis-and-perineum/neurovascular-structures-of-the-pelvis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/pelvis-and-perineum/pelvic-cavity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/pelvis-and-perineum/pelvic-girdle/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/pelvis-and-perineum/pelvic-viscera/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/pelvis-and-perineum/perineum/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/pelvis-and-perineum/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/thorax/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/thorax/thoracic-wall/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/thorax/viscera-of-thoracic-cavity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/upper-limb/arm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/upper-limb/axilla/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/upper-limb/bones-of-upper-limb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/upper-limb/fascia-efferent-vessels-cutaneous-innervation-and-myotomes-of-upper-limb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/upper-limb/forearm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/upper-limb/hand/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/upper-limb/joints-of-upper-limb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/upper-limb/pectoral-and-scapular-regions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/upper-limb/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/acute-and-chronic-inflammation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/blood-cell-disorders/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/blood-vessels/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/cellular-injury-and-adaptation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/diseases-of-childhood/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/diseases-of-immunity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/endocrine/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/environmental-pathology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/fluid-and-haemodynamic-derangements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/genetic-disorders/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/genitourinary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/head-and-neck/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/infectious-disease/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/liver-and-biliary-tract/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/musculoskeletal-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/neoplasia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/nervous-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/pancreas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/renal-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/the-eye/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/the-gastrointestinal-tract/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/the-heart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/the-lung/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/the-skin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/tissue-renewal-and-repair/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/analgesics-and-anti-inflammatory-agents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/antimicrobial-agents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/cardiovascular-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/endocrine-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/fluids-and-electrolytes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/gastrointestinal-tract/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/general-pharmacology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/immune-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/miscellaneous/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/nervous-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/respiratory-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/toxicology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/physiology/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/physiology/circulating-body-fluids/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/physiology/endocrinology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/physiology/gastrointestinal-system-and-metabolism/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/physiology/nerve-and-muscle-cells/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/physiology/nervous-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/physiology/principles-of-cellular-function/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/physiology/renal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/physiology/respiratory/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/physiology/the-circulation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/physiology/the-heart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/test-folder/folder-contents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/anatomy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pathology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/pharmacology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/physiology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/test-folder/</loc>
   </url>
   
 </urlset>

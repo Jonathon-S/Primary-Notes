@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pharmacologies on Primary Notes</title>
+    <link>https://example.com/pharmacology/</link>
+    <description>Recent content in Pharmacologies on Primary Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://example.com/pharmacology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/pharmacology/analgesics-and-anti-inflammatory-agents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pharmacology/analgesics-and-anti-inflammatory-agents/</guid>
+      <description>Analgesics and Anti-inflammatory Agents </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/pharmacology/antimicrobial-agents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pharmacology/antimicrobial-agents/</guid>
+      <description>Antimicrobial Agents </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/pharmacology/cardiovascular-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pharmacology/cardiovascular-system/</guid>
+      <description>Cardiovascular System </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/pharmacology/endocrine-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pharmacology/endocrine-system/</guid>
+      <description>Endocrine System </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/pharmacology/fluids-and-electrolytes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pharmacology/fluids-and-electrolytes/</guid>
+      <description>Fluids and Electrolytes </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/pharmacology/gastrointestinal-tract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pharmacology/gastrointestinal-tract/</guid>
+      <description>Gastrointestinal Tract </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/pharmacology/general-pharmacology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pharmacology/general-pharmacology/</guid>
+      <description>General Pharmacology </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/pharmacology/immune-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pharmacology/immune-system/</guid>
+      <description>Immune System </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/pharmacology/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pharmacology/miscellaneous/</guid>
+      <description>Miscellaneous </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/pharmacology/nervous-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pharmacology/nervous-system/</guid>
+      <description>Nervous System </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/pharmacology/respiratory-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pharmacology/respiratory-system/</guid>
+      <description>Respiratory System </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/pharmacology/toxicology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pharmacology/toxicology/</guid>
+      <description>Toxicology </description>
+    </item>
+    
+  </channel>
+</rss>
